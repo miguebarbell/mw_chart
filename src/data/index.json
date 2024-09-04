@@ -1,0 +1,18 @@
+{
+  "FL": [{ "name": "Saint Augustine", "zipCode": 32080 }],
+  "DC": [
+    { "name": "Washington", "zipCode": 20001 },
+    { "name": "Washington", "zipCode": 20002 },
+    { "name": "Washington", "zipCode": 20003 },
+    { "name": "Washington", "zipCode": 20004 },
+    { "name": "Washington", "zipCode": 20005 },
+    { "name": "Washington", "zipCode": 20006 }
+  ],
+  "NC": [
+    {
+      "name": "Nags Head",
+      "zipCode": 27959
+    },
+    { "name": "Winston-Salem", "zipCode": 27105 }
+  ]
+}
